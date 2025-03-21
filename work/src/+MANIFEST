@@ -1,0 +1,22 @@
+name: os-helloworld-devel
+version: "1.4"
+origin: opnsense/os-helloworld-devel
+comment: "A sample framework application"
+maintainer: "ad@opnsense.org"
+categories: [ "security" ]
+www: "https://opnsense.org/"
+prefix: "/usr/local"
+licenselogic: "single"
+licenses: [ "BSD2CLAUSE" ]
+annotations {
+    "product_abi": "25.1",
+    "product_arch": "amd64",
+    "product_conflicts": "os-helloworld",
+    "product_email": "ad@opnsense.org",
+    "product_hash": "50c9cb095",
+    "product_id": "os-helloworld-devel",
+    "product_name": "helloworld",
+    "product_tier": "3",
+    "product_version": "1.4",
+    "product_website": "https://opnsense.org/"
+}

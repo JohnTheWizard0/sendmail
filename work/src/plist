@@ -1,0 +1,14 @@
+/usr/local/opnsense/mvc/app/controllers/OPNsense/HelloWorld/forms/general.xml
+/usr/local/opnsense/mvc/app/controllers/OPNsense/HelloWorld/Api/ServiceController.php
+/usr/local/opnsense/mvc/app/controllers/OPNsense/HelloWorld/Api/SettingsController.php
+/usr/local/opnsense/mvc/app/controllers/OPNsense/HelloWorld/IndexController.php
+/usr/local/opnsense/mvc/app/models/OPNsense/HelloWorld/ACL/ACL.xml
+/usr/local/opnsense/mvc/app/models/OPNsense/HelloWorld/HelloWorld.php
+/usr/local/opnsense/mvc/app/models/OPNsense/HelloWorld/Menu/Menu.xml
+/usr/local/opnsense/mvc/app/models/OPNsense/HelloWorld/HelloWorld.xml
+/usr/local/opnsense/mvc/app/views/OPNsense/HelloWorld/index.volt
+/usr/local/opnsense/scripts/OPNsense/HelloWorld/testConnection.py
+/usr/local/opnsense/service/templates/OPNsense/HelloWorld/helloworld.conf
+/usr/local/opnsense/service/templates/OPNsense/HelloWorld/+TARGETS
+/usr/local/opnsense/service/conf/actions.d/actions_helloworld.conf
+/usr/local/opnsense/version/helloworld
